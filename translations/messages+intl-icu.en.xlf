@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="bLrYxnm" resname="app-project-title">
+        <source>app-project-title</source>
+        <target>Therapy Scheme Generator</target>
+      </trans-unit>
+      <trans-unit id="KIKVxKE" resname="app-toggle-navigation">
+        <source>app-toggle-navigation</source>
+        <target>Toggle navigation</target>
+      </trans-unit>
+      <trans-unit id="S1PqBA." resname="app-home">
+        <source>app-home</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="_.EGDVA" resname="app-labels">
+        <source>app-labels</source>
+        <target>Labels</target>
+      </trans-unit>
+      <trans-unit id="iaZRCl0" resname="app-stubs">
+        <source>app-stubs</source>
+        <target>Stubs</target>
+      </trans-unit>
+      <trans-unit id="_i_th6i" resname="app-schemes">
+        <source>app-schemes</source>
+        <target>Schemes</target>
+      </trans-unit>
+      <trans-unit id="M7ojZLc" resname="app-reports">
+        <source>app-reports</source>
+        <target>Reports</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
